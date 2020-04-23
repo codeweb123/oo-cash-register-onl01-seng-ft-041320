@@ -35,5 +35,4 @@ class CashRegister
     end
     item_names
   end
-
 end
